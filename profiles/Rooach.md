@@ -13,4 +13,4 @@ Implementing FreeRTOS in embedded designs using the RT-Spark board
 C/C++, FreeRTOS, KiCAD, PlatformIO, MATLAB, Git and GitHub
 
 ## Let's connect
-- GitHub: [@RooRooach](https://github.com/RooRooach)
+GitHub: [@RooRooach](https://github.com/RooRooach)
