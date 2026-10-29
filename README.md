@@ -14,8 +14,8 @@ Show a clean Git workflow: commits, feature branches, and a merge into `main`.
 2. Open `index.html` in a browser
 
 ## Team
-- Sandy: profile card A, README
-- Partner: profile card B, styling
+- Cassandra: profile card A, README
+- Carl: profile card B, styling
 
 ## What we learned
-TODO: add one decision, challenge, or improvement.
+We learned how to work on separate feature branches, make meaningful commits, and merge our work into main without breaking each other's changes.
