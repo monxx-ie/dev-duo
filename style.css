@@ -18,11 +18,24 @@ main {
   padding: 16px;
 }
 
+/* Add/replace inside style.css */
 .card {
   background: #ffffff;
   border-radius: 12px;
   padding: 20px;
   width: 300px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.card h2 {
+  margin-top: 0;
+  color: #2b3a67;
 }
 
 .role {
