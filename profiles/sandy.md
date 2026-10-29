@@ -1,15 +1,15 @@
-# Hi, I'm Sandy 👋
+# Hi, I'm Cassandra 👋
 
 BS Computer Applications student at MSU-IIT.
 
 ## About me
-TODO: 1-2 sentences about what you study and enjoy.
+4th-year BS Computer Applications student at MSU-IIT.
 
 ## What I'm working on
-- TODO: current project or topic
+Embedded systems projects with FreeRTOS on the RT-Spark board
 
 ## Tech & tools
-- TODO: languages, tools (e.g. C/C++, FreeRTOS, MATLAB, Git)
+C/C++, FreeRTOS, PlatformIO, MATLAB, Git and GitHub
 
 ## Let's connect
-- GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@monxx-ie](https://github.com/monxx-ie)
